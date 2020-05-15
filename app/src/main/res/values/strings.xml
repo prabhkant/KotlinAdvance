@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinAdvanceTraining</string>
+    <string name="todo_list">Todo List</string>
+    <string name="title"><b>Title :  </b>%s</string>
+    <string name="compete"><b>Status : Completed</b></string>
+    <string name="pending"><b>Status : Pending</b></string>
+    <string name="loading">Loading…</string>
+    <string name="error_msg"><b>Something went wrong</b>\n\nGive it another try\n\n<font color='#00BFFF'>RELOAD</font></string>
+</resources>
