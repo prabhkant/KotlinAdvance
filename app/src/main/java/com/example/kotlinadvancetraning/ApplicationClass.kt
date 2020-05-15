@@ -20,7 +20,7 @@ class ApplicationClass: Application() , HasAndroidInjector{
 
         DaggerAppComponent.builder().application(this)
             .build().inject(this)
-        
+
     }
 
     override fun androidInjector(): AndroidInjector<Any> {
